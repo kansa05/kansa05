@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I’m Ansa Kanwal!
 
-<!--
-**kansa05/kansa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science + Applied Statistics major at the University of Virginia (Class of 2028)  
+🌟 Passionate about open source, AI for social good, and fintech innovation  
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- **Languages:** Python  
+- **Tools:** Excel, PyCharm, Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects I'm Working On
+- **Thrift AI (in progress):** AI assistant that estimates thrifted item values using image input + GPT/Vision-based search  
+- **Budget Tracker (in progress):** SMS-based app that tracks personal spending and recommends donation opportunities  
+- **Machine Learning Research:** Exploring music source separation techniques and testing models/code for generative audio tasks  
+
+## 🎯 Achievements
+- Keploy API Fellow (2025)  
+- Machine Learning Intern @ Corvia Analytics  
+- Software Engineer Intern @ SideNerd Apps  
+- Finalist – Modeling the Future Challenge (fire insurance company risk forecasting)  
+
+## 💬 Fun Facts
+- I speak Urdu, Punjabi, and basic Russian  
+- I want to own a farm one day! 🐓🌾
