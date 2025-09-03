@@ -10,7 +10,6 @@
 ## 🧠 Projects I'm Working On
 - **Thrift AI (in progress):** AI assistant that estimates thrifted item values using image input + GPT/Vision-based search  
 - **Budget Tracker (in progress):** SMS-based app that tracks personal spending and recommends donation opportunities  
-- **Machine Learning Research:** Exploring music source separation techniques and testing models/code for generative audio tasks  
 
 ## 🎯 Achievements
 - Keploy API Fellow (2025)  
